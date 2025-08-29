@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# dotenvx files
+.env
+.env.*.local
+.env.vault
+
+# Production builds
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Editor and IDE
+.vscode/
+.idea/
+
+# Node.js specific
+npm-debug.log*
+yarn-debug.log*
+.env.local
+
+# Frontend
+frontend/build/
+frontend/node_modules/
+
+# Backend
+backend/node_modules/
+
+# Database
+# MongoDB files if you are running locally
+*.db
