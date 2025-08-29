@@ -1,4 +1,3 @@
-Here’s a polished and **beautifully structured** version of your `README.md` for GitHub. I kept it professional, added clean headings, badges, emojis, and better formatting for readability:
 
 ---
 
