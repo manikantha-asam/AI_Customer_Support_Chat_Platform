@@ -1,15 +1,19 @@
 
----
-
-````markdown
 # 🤖 AI Customer Support Chat Platform  
 
-A **full-stack AI-powered customer support chat application** built with the **MERN stack (MongoDB, Express, React, Node.js)** and **Gemini API**.  
-It features a modern chat interface for users to interact with an AI assistant and an **admin panel** for managing company FAQs.  
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)  
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)  
+[![Express](https://img.shields.io/badge/Framework-Express-black?logo=express)](https://expressjs.com/)  
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen?logo=mongodb)](https://www.mongodb.com/)  
+[![Gemini](https://img.shields.io/badge/AI-Gemini-purple?logo=google)](https://deepmind.google/technologies/gemini/)  
+
+A **full-stack AI-powered customer support chat application** built with the **MERN stack** and **Gemini API**.  
+It features a **modern chat interface** for users to interact with an AI assistant and an **admin panel** for managing company FAQs.  
 
 ---
 
 ## 🚀 Live Demo  
+
 🔗 [AI Customer Support Chat Platform](https://ai-customer-support-chatplatform.onrender.com)  
 
 ![Screenshot](https://github.com/user-attachments/assets/fa1436e1-97c5-4601-a134-a6882ed9d159)  
@@ -130,6 +134,13 @@ REACT_APP_API_URL=http://localhost:5000
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
 
 💡 *Built with MERN & ❤️ for smarter customer support.*
+
+```
 
